@@ -1,2 +1,2 @@
 #!/bin/bash
-*d* chgrp staff chown vincent 
+chown vincent chgrp staff *d* 
