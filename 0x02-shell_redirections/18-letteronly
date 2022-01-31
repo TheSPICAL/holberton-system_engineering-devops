@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/bas
 grep '^{a-zA-Z}' /ect/ssh/ssh/sshd_config
