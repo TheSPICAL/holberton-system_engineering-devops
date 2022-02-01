@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l $PATH | grep -c ^d
+$PATH=/bin::::/home:/usr:::::/home/me
